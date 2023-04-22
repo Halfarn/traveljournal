@@ -5,7 +5,7 @@ nav {
   height: 70px;
   display: flex;
   align-items: center;
-  background-color: #A020F0;
+  background-color: #40248c;
   justify-content: center;
   
 }
@@ -14,7 +14,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #A020F0;
+  background-color: #40248c;
   color:white
 }
 .nav--items {
@@ -88,7 +88,7 @@ footer {
 .cards-list > .card + .card {
   padding: 2em 0;
   border-top: 3px solid;
-  border-color: #A020F0;
+  border-color: #40248c;
   border-radius: 2px;
 }
 
