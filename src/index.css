@@ -4,11 +4,12 @@
 nav {
   height: 70px;
   display: flex;
+  flex-direction: row;
   align-items: center;
   background-color: #40248c;
   justify-content: center;
-  
 }
+
 footer {
   height: 50px;
   display: flex;
@@ -18,7 +19,6 @@ footer {
   color:white
 }
 .nav--items {
-  align-items: center;
   color: white;
   font-size: 15px
 }
@@ -92,5 +92,14 @@ footer {
   border-radius: 2px;
 }
 
+.header--return{
+  color: white;
+  padding-right: 10px;
+  display: 
+}
 
-
+.header--nav{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
