@@ -36,7 +36,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/FV1TXJXhhqNNYmub9",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
-        description: "In college, I had the priveledge to tour France for the centenary of the First World War. Visiting a number of gravestones and important historical sites, it was truly humbling to visit the final resting places of those who laid down their lives in service of our country. To end the tour, we spent a couple of days in the beautiful Bruges, in Belgium.",
+        description: "In college, I had the privilege to tour France for the centenary of the First World War. Visiting a number of gravestones and important historical sites, it was truly humbling to visit the final resting places of those who laid down their lives in service of our country. To end the tour, we spent a couple of days in the beautiful Bruges, in Belgium.",
         image: "https://images.unsplash.com/photo-1652987435847-5177b056647e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     }
 
